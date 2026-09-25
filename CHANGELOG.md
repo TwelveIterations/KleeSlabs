@@ -1,1 +1,1 @@
-- Updated to Minecraft 26.3
+- Fixed block outlines not showing up on double slabs
